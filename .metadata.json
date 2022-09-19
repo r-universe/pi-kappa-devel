@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "package": "diseq",
+    "oncran": true
+  },
+  {
+    "package": "markets",
+    "oncran": true
+  }
+]
