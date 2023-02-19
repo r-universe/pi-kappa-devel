@@ -1,10 +1,9 @@
 [
   {
-    "package": "diseq",
+    "package": "markets",
     "oncran": true
   },
   {
-    "package": "markets",
-    "oncran": true
+    "package": "diseq"
   }
 ]
